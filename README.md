@@ -28,9 +28,7 @@ Key analytical questions include:
 
 ## Dataset Overview
 
-## Dataset Overview
-
-This project integrates structured and semi-structured datasets to analyse youth engagement opportunities from multiple perspectives.
+The project integrates structured sports participation data from AusPlay and semi-structured media data collected through the Guardian API to analyse youth engagement opportunities.
 
 | Dataset | Data Type | Source | Purpose |
 |---|---|---|---|
