@@ -28,13 +28,45 @@ Key analytical questions include:
 
 ## Dataset Overview
 
-Multiple data sources were analysed to provide a comprehensive understanding of youth engagement.
+## Dataset Overview
 
-| Dataset | Purpose |
-|---|---|
-| Sports Participation Data | Identify youth participation trends across different sports |
-| Media Coverage Data | Analyse Olympic-related topics and digital engagement themes |
-| Motivation Data | Understand key factors influencing sport participation |
+This project integrates structured and semi-structured datasets to analyse youth engagement opportunities from multiple perspectives.
+
+| Dataset | Data Type | Source | Purpose |
+|---|---|---|---|
+| AusPlay Sport Participation Data | Structured Data | Australian Sports Commission - AusPlay Results | Analyse youth participation trends, age groups, gender differences, and sport popularity |
+| Guardian News Data | Semi-structured Data | The Guardian Open Platform API | Analyse Olympic-related media coverage, digital communication themes, and youth-focused content |
+
+---
+
+### Data Sources
+
+#### 1. AusPlay Sport Participation Data
+
+AusPlay provides national-level sport and physical activity participation data in Australia.
+
+This dataset was used to analyse:
+
+- Youth participation patterns
+- Sport popularity rankings
+- Age-based engagement differences
+- Gender participation trends
+
+Key objective:
+
+Identify sports with strong potential for Brisbane 2032 youth engagement strategies.
+
+
+#### 2. Guardian Open Platform API
+
+News article data was collected through the Guardian API to explore Olympic-related media communication.
+
+The analysis included:
+
+- Keyword-based article collection
+- Text preprocessing
+- TF-IDF analysis
+- Topic modelling
 
 ---
 
