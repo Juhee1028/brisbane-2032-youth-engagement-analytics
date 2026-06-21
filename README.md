@@ -152,17 +152,17 @@ Strategic Recommendations
 
 ### Youth Participation Analysis
 
-![Participation Analysis](images/participation_chart.png)
-
+![Participation Analysis1](images/Age_Progression.png)
+![Participation Analysis2](images/Top_10_Olympic_Sports_by_participation.png)
 
 ### Motivation Analysis
 
-![Motivation Analysis](images/motivation_analysis.png)
+![Motivation Analysis](images/Gender-related_Motivation.png)
 
 
 ### Segmentation Results
 
-![Cluster Analysis](images/clustering_result.png)
+![Cluster Analysis](images/K-means_clustering.png)
 
 
 ---
